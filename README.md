@@ -29,3 +29,6 @@ Basándonos en ese proyecto, vamos a realizar las siguientes actividades.
 -    Generar documentación JavaDoc para todo el proyecto y comprueba que abarca todos los métodos y atributos de la clase CCuenta.
 ***
 <b>Solucion del resto del ejercicio en la carpeta Deposito que contiene el proyecto en cuestion</b>
+
+Julio Manuel González González      
+1ºDAM
